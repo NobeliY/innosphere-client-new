@@ -62,7 +62,7 @@ const Price = ({onChildValueChange}) => {
             </div>
             <div className="AboutContainer PB0">
                 <div className="AboutPanel">
-                    <h1>Прайс-лист на услуги</h1>
+                    <h1>Наши услуги</h1>
                     {services && intesives ?
                         <>
                             <h2>Диагностика и консультации специалистов</h2>
