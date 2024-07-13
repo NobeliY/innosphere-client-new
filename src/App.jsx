@@ -256,7 +256,7 @@ function App() {
                     </div>
                     <ul className='NavList'>
                         <li id='/about' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='О нас'>О нас</li>
-                        <li id='/price' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Прайс-лист'>Прайс-лист</li>
+                        <li id='/price' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Наши услуги'>Наши услуги</li>
                         <li onClick={toGallery} onKeyDown={toGallery} tabIndex={0} aria-roledescription='Фотогалерея'>Галерея</li>
                         <li id='/competition' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Конкурсы'>Конкурсы</li>
                         {/* <li id='/charity' onClick={handleNavigate}>Благотворительность</li> */}
