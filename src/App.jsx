@@ -244,7 +244,7 @@ function App() {
                     <li id='/price' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Наши услуги'>Наши услуги</li>
                     <li onClick={toGallery} onKeyDown={toGallery} tabIndex={0} aria-roledescription='Фотогалерея'>Галерея</li>
                     <li id='/competition' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Конкурсы'>Конкурсы</li>
-                    <li id='/news' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Новости'>Новости</li>
+                    <li id='/news' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Нейрошкола'>Нейрошкола</li>
                     {/* <li>Благотворительность</li> */}
                     <li onClick={showModal} onKeyDown={showModal} tabIndex={0} aria-roledescription='Обратная связь'>Обратная связь</li>
                 </ul>
@@ -260,7 +260,7 @@ function App() {
                         <li onClick={toGallery} onKeyDown={toGallery} tabIndex={0} aria-roledescription='Фотогалерея'>Галерея</li>
                         <li id='/competition' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Конкурсы'>Конкурсы</li>
                         {/* <li id='/charity' onClick={handleNavigate}>Благотворительность</li> */}
-                        <li id='/news' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Новости'>Новости</li>
+                        <li id='/news' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Нейрошкола'>Нейрошкола</li>
                     </ul>
                 </nav>
                 <button className='HeaderFeedback' onClick={showModal} aria-roledescription='Обратная связь'>Обратная связь</button>
@@ -317,7 +317,7 @@ function App() {
                                     <li onClick={toGallery} onKeyDown={toGallery} tabIndex={0} aria-roledescription='Фотогалерея'>Галерея</li>
                                     <li id='/competition' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Конкурсы'>Конкурсы</li>
                                     {/* <li id='/charity' onClick={handleNavigate}>Благотворительность</li> */}
-                                    <li id='/news' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Новости'>Новости</li>
+                                    <li id='/news' onClick={handleNavigate} onKeyDown={handleNavigate} tabIndex={0} aria-roledescription='Нейрошкола'>Нейрошкола</li>
                                 </ul>
                             </div>
                             <div className='FooterCol'>
