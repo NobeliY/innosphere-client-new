@@ -245,7 +245,7 @@ const Main = () => {
                                                     <img src={arrowR} alt="Вперед" />
                                                 </button>
                                             </div>
-                                            <p>{photo.text}</p>
+                                            {/*<p>{photo.text}</p>*/}
                                         </div>
                                     )
                                 else return <></>
