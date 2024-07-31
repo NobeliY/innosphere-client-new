@@ -52,8 +52,10 @@ const Competition = () => {
                     <h2 className="MT20">Этапы конкурса:</h2>
                     <h3 className="MT30">1. Регистрация:</h3>
                     <p>
-                        * Зарегистрироваться на конкурсе на сайте : https://www.innosfera-almet.ru 
-                        или в социальных сетях: https://vk.com/innosphera_almet, https://t.me/innosphera_almet, https://2gis.ru/almetevsk/geo/70000001075449708
+                        * Зарегистрироваться на конкурсе на сайте : <a href="https://www.innosfera-almet.ru">https://www.innosfera-almet.ru</a> 
+                        или в социальных сетях: <a href="https://vk.com/innosphera_almet">https://vk.com/innosphera_almet</a>, 
+                        <a href="https://t.me/innosphera_almet">https://t.me/innosphera_almet</a>,
+                         <a href="https://2gis.ru/almetevsk/geo/70000001075449708">https://2gis.ru/almetevsk/geo/70000001075449708</a>
                     </p>
                     <p>
                         * Возрастная категория (7-9 лет, 10-11 лет).
