@@ -138,6 +138,7 @@ const Competition = () => {
 
 
                     {/* Old competition */}
+                    <hr className="MT30"></hr>
                     <div className="MT30"><a className="ItemTip MT30 LinkLined" href="https://vk.com/wall92197628_2736" rel="noreferrer" target="_blank">https://vk.com/wall92197628_2736</a></div> 
                     <h2 className="MT20">Внимание жители г. Альметьевск!</h2>
                     <p>АНО НРЦ "Инносфера" приглашает детей на увлекательные и разнообразные занятия и кружки! Мы находимся по адресу:</p>
