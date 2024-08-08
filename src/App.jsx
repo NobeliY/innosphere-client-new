@@ -332,7 +332,7 @@ function App() {
                                 </div>
                                 <div className='FooterContact'>
                                     <img src={email} alt="Почта" />
-                                    <a href="mailto">vitrina0608@mail.ru</a>
+                                    <a href="mailto">vitrina0602@mail.ru</a>
                                 </div>
                                 <div className='FooterContact'>
                                     <img src={whats} alt="Ватсап" />
