@@ -108,7 +108,7 @@ const Main = () => {
                         <li>Курсы</li>
                         <li>Нейрошкола</li>
                     </ul>
-                    <button onClick={showModal}>Получить консультацию</button>
+                    <button onClick={showModal}>Записаться на бесплатную консультацию</button>
                 </div>
             </div>
             <div className='MainPhotoContainer2'>
@@ -121,7 +121,7 @@ const Main = () => {
                         <li>Курсы</li>
                         <li>Нейрошкола</li>
                     </ul>
-                    <button onClick={showModal}>Получить консультацию</button>
+                    <button onClick={showModal}>Записаться на бесплатную консультацию</button>
                 </div>
                 <div className='MainPhoto2'>
                     <img src={kids1} alt="" />

@@ -269,7 +269,7 @@ function App() {
             <div className='FeedbackModal None' onClick={closeModal}>
                 <div className='FeedbackBox modal'>
                     <button className='CloseBtn' onClick={closeModal} aria-roledescription='Закрыть окно записи'><IoClose size={30} /></button>
-                    <h3 className='modal'>Получить консультацию</h3>
+                    <h3 className='modal'>Записаться на бесплатную консультацию</h3>
                     <input className='InputName modal' type="text" value={sendName} placeholder='Ваше имя' onChange={handleName} tabIndex={0} />
                     <div className='InputPhone modal'>
                         <span className='modal'>+7</span>
@@ -332,7 +332,7 @@ function App() {
                                 </div>
                                 <div className='FooterContact'>
                                     <img src={email} alt="Почта" />
-                                    <a href="mailto">aaa@email.com</a>
+                                    <a href="mailto">vitrina0608@mail.ru</a>
                                 </div>
                                 <div className='FooterContact'>
                                     <img src={whats} alt="Ватсап" />
